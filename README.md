@@ -32,7 +32,7 @@
 | Name              | Home town           | GitHub ID            | URL for your newest GitHub repo     |  
 |:------------------|:--------------------|:---------------------|:------------------------------------|  
 | Matthew Beckman   | Edinboro, PA (USA)  | mdbeckman           | https://github.com/mdbeckman/ICOTS2022    |  
-
+|  Nikhil Melligeri | Houston, TX (USA)   | nikmelli             |https://github.com/Nikmelli/crispy-journey |
 
 <br>
 
